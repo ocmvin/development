@@ -1,11 +1,14 @@
 package com.mycompany.main;
 
+/**
+ * 
+ * THis is a loop program
+ * 
+ */
 public class LoopMain {
 	static int balls;
 	static String[] nameArray= {"shrikant","vijendra","shweta"};
-	//nameArray[0]= "shrikant"
-	//nameArray[1]= "vijendra"
-	//nameArray[2]= "shweta"
+	
 					
 	static String user="vijendra";
 	
@@ -14,14 +17,9 @@ public class LoopMain {
 		for (int i = 0; i < 6; i++) {
 			balls=balls+1;
 			currentBalls=balls;
-			
-			
-			System.out.println("currentBalls ="+currentBalls+" balls : "+balls);
-			
-			
 		}
 		
-		//method();
+		method();
 	}
 
 	private static void method() {
