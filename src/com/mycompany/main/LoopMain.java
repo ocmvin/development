@@ -1,8 +1,7 @@
 package com.mycompany.main;
 
 /**
- * 
- * THis is a loop program
+ * THIS IS SONUS FILE
  * 
  */
 public class LoopMain {
